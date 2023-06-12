@@ -1,0 +1,12 @@
+body{
+  /* background-image:url("https://static.vecteezy.com/system/resources/previews/003/559/330/original/abstract-background-with-gradient-blue-bubble-free-vector.jpg") ; */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: black;
+  background-attachment: fixed;
+  background-position: center;
+   overflow-x: hidden;
+   background: linear-gradient(90deg, #6970ff 0%, #03fbffc2 100%);
+   
+  
+}
